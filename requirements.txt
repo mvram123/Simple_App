@@ -1,3 +1,7 @@
+# Local Packages
+-e .
+
+# Third Party Libraries
 dvc
 dvc[gdrive]
 sklearn
