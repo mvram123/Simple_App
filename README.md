@@ -1,1 +1,1 @@
-THis is a sample dvc practise repositary
+THis is a sample data version control practise repositary
